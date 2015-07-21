@@ -1,0 +1,17 @@
+The Textures are taken from external resources:
+
+4Color.jpg:
+	
+Copyright 	: Karel Miragaya
+Title		: Four different wool textures in blue,red,green and yellow
+URL		: http://www.123rf.com/photo_6209541_four-different-wool-textures-in-blue-red-green-and-yellow.html
+Download Date	: 19.03.2014
+
+-------------------------------------------------------------------------------------------------------------------
+
+hrt_brick_wall_2.jpg:
+
+Copyright 	: Vincent
+Title		: Free brick wall texture pack
+URL		: http://www.highresolutiontextures.com/free-brick-wall-texture-pack
+Download Date	: 16.03.2014
