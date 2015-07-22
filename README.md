@@ -2,7 +2,7 @@
 This Project is a module to destroy convex objects. The project is realized with Unity3D.
 
 <h2>Installation</h2>
-To use this project, clone the repository and open this project in Unity.
+To use this project, clone the repository and open it in Unity.
 
 <h2>Usage</h2>
 In the folder <strong>"Assets/Scenes"</strong> is a scene called <strong>"DestructiveTestScene_WithCharacterController.unity"</strong> which is used to demonstrate the functionality of this project
