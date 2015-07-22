@@ -19,6 +19,6 @@ If the script shall run on other objects some requirements must be met:
 For the demonstration-scene some textures were taken from other sources:
 <ul>
   <li><a href="http://www.123rf.com/photo_6209541_four-different-wool-textures-in-blue-red-green-and-yellow.html">Four different wool textures in blue,red,green and yellow</a> by <a href="http://www.123rf.com/profile_kmiragaya">Karel Miragaya</a></li>
-  <li><a href="http://www.highresolutiontextures.com/free-brick-wall-texture-pack">Free brick wall texture pack</a>by <a href="http://www.highresolutiontextures.com/author/admin">Vincent</a></li>
+  <li><a href="http://www.highresolutiontextures.com/free-brick-wall-texture-pack">Free brick wall texture pack</a> by <a href="http://www.highresolutiontextures.com/author/admin">Vincent</a></li>
 </ul>
 
